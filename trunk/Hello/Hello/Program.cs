@@ -12,6 +12,8 @@ namespace Hello
         {
             Console.WriteLine("Witaj Ewo zagrjamy sobooooie :)");
             Console.Write("Ja");
+
+            Console.Write("i ja! xD :D");
         }
     }
 }
