@@ -14,6 +14,8 @@ namespace Hello
             Console.Write("Ja");
 
             Console.Write("i ja! xD :D");
+
+            // Przypominam sobie obsługę gita - tym razem działam graficznie :D
         }
     }
 }
