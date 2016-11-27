@@ -1,0 +1,1 @@
+Zrobi³am nowego brancha o nazwie branch_1 i dodajê plik tekstowy.
